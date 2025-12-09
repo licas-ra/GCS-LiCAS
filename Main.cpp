@@ -1,8 +1,8 @@
 /*
- * Ground Control Station Program for AlexAndros Robot Arms
+ * Ground Control Station Program for LiCAS Robotic Arms
  *
- * Author: Alejandro Suarez Fernandez-Miranda
- * Date: 27 August 2020
+ * Author: Alejandro Suarez, asuarezfm@us.es
+ * Date: December 2025
  **/
 
 
@@ -61,8 +61,8 @@ int main(int argc, char ** argv)
 	cout << endl;
 	cout << "----------------------------------------------------" << endl;
 	cout << "Ground Control Station (GCS) Program for LiCAS" << endl << endl;
-	cout << "Author: Alejandro Suarez Fernandez-Miranda" << endl;
-	cout << "Date: Date: 27 August 2020" << endl;
+	cout << "Author: Alejandro Suarez, asuarezfm@us.es" << endl;
+	cout << "Date: December 2025" << endl;
 	cout << "----------------------------------------------------" << endl << endl;
 	
 	
